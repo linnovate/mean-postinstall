@@ -1,0 +1,29 @@
+{
+  "name": "mean-postinstall",
+  "version": "0.1.0",
+  "description": "mean.io common postinstall functions",
+  "main": "mean-postinstall.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linnovate/mean-postinstall.git"
+  },
+  "keywords": [
+    "mean",
+    "meanio",
+    "postinstall"
+  ],
+  "author": "Linnovate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linnovate/mean-postinstall/issues"
+  },
+  "homepage": "https://github.com/linnovate/mean-postinstall",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "npm": "^2.1.4",
+    "shelljs": "^0.3.0"
+  }
+}
